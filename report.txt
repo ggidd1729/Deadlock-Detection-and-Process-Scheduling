@@ -1,0 +1,4 @@
+The sequential scheduling algorithm has no parallelism. My scheduling algorithm does, it allows
+processes to run at the same time if they do not need the same files. For resources-ch-0.txt, 
+the sequential algorithm would take 5 time units (1 time unit per process), whilst my algorithm takes 
+3 time units.
