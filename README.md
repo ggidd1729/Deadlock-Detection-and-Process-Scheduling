@@ -1,6 +1,6 @@
 # deadlock-detection-and-process-scheduling
 
-I wrote this program for a university assignment. 
+I wrote this program as an assignment for my final year undergraduate subject on Computer Systems.
 
 The program takes input through the command line. Each line should contain 3 integers, a process ID, followed by the file ID that that process has locked, followed by the file 
 ID that that process is waiting on. The program will then detect whether a deadlock has occurred and if so which processes to terminate in order to resolve the deadlock.   
